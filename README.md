@@ -12,7 +12,7 @@ Link to dataset : https://www.kaggle.com/datasets/fedesoriano/heart-failure-pred
 
 Attribute Information:
 - Age
-- Sex
+- Gender
 - Chest Pain Type
 - Resting Blood Pressure
 - Cholesterol Levels
